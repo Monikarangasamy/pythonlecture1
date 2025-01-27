@@ -1,1 +1,1 @@
-# pythonlecture1
+# pythonlecture
